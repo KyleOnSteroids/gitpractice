@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+    <head>
+      <title>This is a big oofer</title>
+    </head>
+    <body>
+        <h1>This is a cute cat</h1>
+          <img src="cat.jpeg">
+        <h2>This is also a cute cat</h2>
+          <img src="cat2.jpeg">
+    </body>
+</html>
